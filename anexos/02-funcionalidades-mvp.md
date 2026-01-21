@@ -1,27 +1,25 @@
-
----
-
-## 2) `anexos/02-funcionalidades-mvp.md`
-```md
 # Anexo 02 — Funcionalidades do Portal B2B (MVP)
 
 ## Acesso
-- Login do cliente (farmácia)
-- Recuperação de acesso
-- Perfil básico do cliente (dados e endereços)
+- Login do cliente (farmacia)
+- Recuperacao de acesso
+- Perfil basico do cliente (dados e enderecos)
 
-## Catálogo e preço
+## Catalogo e preco
 - Listagem por categoria
-- Busca por nome/código
-- Página do produto (descrição, embalagem, imagem)
-- Exibição de preço conforme perfil/condição do cliente
+- Busca por nome/codigo
+- Pagina do produto (descricao, embalagem, imagem)
+- Exibicao de preco conforme perfil/contrato do cliente
 
 ## Pedido
 - Carrinho
-- Aplicação de regras comerciais (mínimo, condição, descontos)
-- Finalização do pedido
-- Histórico e status do pedido
+- Aplicacao de regras comerciais (minimo, condicao, descontos)
+- Escolha de endereco de entrega
+- Selecao de condicao de pagamento (ex.: boleto/prazo)
+- Finalizacao do pedido
+- Historico e status do pedido
 
-## Documentos
-- Download de PDFs úteis (tabelas, políticas e orientações)
-- Canal de contato (formulário/telefone/WhatsApp)
+## Documentos e contato
+- Download de PDFs uteis (tabelas, politicas e orientacoes)
+- Canal de contato (formulario/telefone/WhatsApp)
+

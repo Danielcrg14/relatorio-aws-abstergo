@@ -8,8 +8,9 @@
 ## Diagrama (Mermaid)
 ```mermaid
 flowchart LR
-  U[Clientes B2B (Farmácias)] --> CF[CloudFront]
-  CF --> S3[S3: Portal + Imagens/PDFs]
+  U[Clientes B2B - Farmacias] --> CF[CloudFront]
+  CF --> S3[S3 - Portal e Midias]
   CF --> APIGW[API Gateway]
-  APIGW --> L[AWS Lambda]
+  APIGW --> L[Lambda]
   L --> DB[Aurora Serverless v2]
+

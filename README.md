@@ -90,10 +90,11 @@ O resultado esperado é:
 
 Recomenda-se acompanhar mensalmente as métricas propostas (custo por pedido, cache hit ratio, consumo médio do banco) e manter controles de orçamento para evitar variações inesperadas.
 
-## Anexos  
-1. Arquitetura proposta (Portal → CloudFront → S3 / API Gateway → Lambda → Aurora Serverless)  
-2. Lista de funcionalidades do portal B2B (mínimo viável)  
-3. Matriz de comparação de custos (servidor fixo vs. sob demanda)  
+## Anexos
+- [Anexo 01 — Arquitetura](anexos/01-arquitetura.md)
+- [Anexo 02 — Funcionalidades MVP](anexos/02-funcionalidades-mvp.md)
+- [Anexo 03 — Matriz de custos](anexos/03-matriz-custos.md)
+  
 
 
 **Assinatura do Responsável pelo Projeto:**  
